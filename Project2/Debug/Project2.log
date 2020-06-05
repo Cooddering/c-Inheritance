@@ -1,0 +1,5 @@
+﻿  kare.cpp
+  Main.cpp
+C:\Users\3DDT-Muhasebe\source\repos\Project2\Project2\Main.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\3DDT-Muhasebe\source\repos\Project2\Project2\Main.cpp(20,43): error C3867: 'kare::alanHesapla': non-standard syntax; use '&' to create a pointer to member
+C:\Users\3DDT-Muhasebe\source\repos\Project2\Project2\Main.cpp(20,43): fatal error C1903: unable to recover from previous error(s); stopping compilation
